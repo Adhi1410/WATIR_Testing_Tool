@@ -14,6 +14,16 @@ https://rubyinstaller.org/
 ```
 gem install watir
 ```
+#### Install ffi (for windows)
+```
+pip install ffi
+```
+#### Download chromedriver and set PATH
+```
+https://chromedriver.chromium.org/downloads
+Once chromedriver is downloaded extract the files and place them into the bin folder of Ruby31-x64 folder
+Set chromdriver PATH in environment variables
+```
 
 #### Execute ruby file (in terminal)
 ```
